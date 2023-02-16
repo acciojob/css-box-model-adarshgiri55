@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.div2{
+	width:300px;
+	border:dotted;
+}
+.div1{
+	background-color: skyblue;
+	padding:50px;
+	border: 15px solid blue;
+	margin: 20px;
+}
